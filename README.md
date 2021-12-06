@@ -6,7 +6,7 @@ This project was built as a Progressive Web Application (PWA) as a way to track 
 ## Deployed Site
 https://aqueous-cliffs-48605.herokuapp.com/
 
-![homepage](./develop/public/assets/images/homepage.png)
+![homepage](./Develop/public/assets/images/homepage.png)
 
 ## Questions
 Contact me here:
