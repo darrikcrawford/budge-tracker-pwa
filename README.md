@@ -4,7 +4,7 @@
 This project was built as a Progressive Web Application (PWA) as a way to track and monitor your budget.
 
 ## Deployed Site
-https://git.heroku.com/frozen-gorge-84340.git
+https://aqueous-cliffs-48605.herokuapp.com/
 
 ![homepage](./develop/public/assets/images/homepage.png)
 
